@@ -1,4 +1,9 @@
 # Atividade-28-04 - Lista de exercicios - plano de Gerenciamento de Tempo e Cronograma
+
+### Alunos
+#### WILLIAN HIDEAKI KAKIHATA 22015763-2
+#### RENAN TONON DE OLIVEIRA 22188153-2
+
 ### 1. Defina o que é um cronograma segundo o PMBOK  
 Um cronograma é uma representação dos tempos planejados para as atividades de um projeto, com o objetivo de garantir que ele seja concluído no prazo. Ele inclui a programação de todas as tarefas, suas durações, e as dependências entre elas, permitindo o controle do progresso e o gerenciamento do tempo ao longo do projeto.
 
